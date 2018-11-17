@@ -12,7 +12,7 @@
 Still WIP.
 
 ## Demo
-Coming soon.
+![FreeLive](https://raw.githubusercontent.com/UlyssesWu/DualVectorFoil/master/imgs/DualVectorFoil.FreeLive.Demo.png)
 
 ---
 by Ulysses
